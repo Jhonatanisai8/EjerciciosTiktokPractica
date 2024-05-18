@@ -7,8 +7,9 @@ public class Ejercicio03DivicionesSucesivas {
 
     public static void main(String[] args) {
         /*
+         * Ejercicio:
          * Hacer un algoritmo que permita leer dos números N1,N2 y
-          divida N1/N2 sin usar uso del "/"
+         * divida N1/N2 sin usar uso del "/"
          */
 
         // definimos las variables
@@ -25,6 +26,7 @@ public class Ejercicio03DivicionesSucesivas {
         cociente = 0;
         residuo = 0;
 
+        //calculamos el cociente y el residuo
         while (n1 >= n2) {
             cociente++;
             residuo = n1 - n2;
