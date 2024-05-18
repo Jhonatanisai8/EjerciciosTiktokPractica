@@ -7,6 +7,13 @@ public class Ejercicio02Exportacion {
 
     public static void main(String[] args) {
 
+        /*
+        Una empresa productora de lácteos exporta su total de producción de la siguiente manera: 
+        35% para Asia,
+        27% para Europa
+        19% para america Latina
+        y el resto para África. Diseñe un algoritmo que determine cuanto se exporta a cada lugar
+         */
         //definimos las variables
         int exportacionAsia, exportacionEuropa, exportacionAmerica, exportacionAfrica;
         int totalProduccion;
