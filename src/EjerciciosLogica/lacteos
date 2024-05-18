@@ -1,0 +1,9 @@
+/* 4.
+Una empresa productora de lácteos exporta su total de producción 
+de la siguiente manera: 
+35 % para Asia,
+27% para Europa, 
+19% para América Latina 
+y el resto para África. 
+Diseñe un algoritmo que determine cuanto se exporta a cada lugar.
+*/
