@@ -17,7 +17,7 @@ public class Ejercicio16MayorNumeroArreglo {
 
         // procedemos a encontrar el numero mayor
         /*
-         * Supingamos que el numero mayor esta en la posicion 0
+         * Supongamos que el numero mayor esta en la posicion 0
          */
         mayor = arreglo[0];
         posicion = 0;

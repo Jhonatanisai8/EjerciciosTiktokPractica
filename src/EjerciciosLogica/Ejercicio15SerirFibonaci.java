@@ -2,7 +2,7 @@ package EjerciciosLogica;
 
 import java.util.Scanner;
 
-public class Ejericicio15SerirFibonaci {
+public class Ejercicio15SerirFibonaci {
     static Scanner leer = new Scanner(System.in);
     
     public static void main(String[] args) {

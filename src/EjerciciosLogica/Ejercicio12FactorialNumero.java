@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio12FactorialNumero {
     static Scanner leer = new Scanner(System.in);
+
     public static void main(String[] args) {
 
         // definimos las variables

@@ -6,7 +6,7 @@ public class Ejercicio04SumasSucesivas {
     static Scanner leer = new Scanner(System.in);
 
     public static void main(String[] args) {
-   
+
         int n1, n2, producto;
 
         //pedimos los datos
@@ -24,6 +24,7 @@ public class Ejercicio04SumasSucesivas {
             i++;
         }
 
+        
         //mostramos los resultados
         System.out.println("TOTAL: " + producto);
     }

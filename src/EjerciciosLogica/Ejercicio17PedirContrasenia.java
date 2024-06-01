@@ -1,7 +1,7 @@
 package EjerciciosLogica;
 
 import java.util.Scanner;
-public class Ejercicicio17PedirContrasenia {
+public class Ejercicio17PedirContrasenia {
     static Scanner leer = new Scanner(System.in);
 
     public static void main(String[] args) {
