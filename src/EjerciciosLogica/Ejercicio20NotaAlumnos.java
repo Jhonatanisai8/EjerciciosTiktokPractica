@@ -1,7 +1,5 @@
 package EjerciciosLogica;
-
 import java.util.Scanner;
-
 public class Ejercicio20NotaAlumnos {
     static Scanner leer = new Scanner(System.in);
 
@@ -33,10 +31,10 @@ public class Ejercicio20NotaAlumnos {
                 } else {
                     // aumentamos los contadores de alumnos desaprovados
                     contadorAprovados++;
-                    if (nota == 5) {
+                    if (nota >= 5 && nota <= 5.9) {
                         System.out.println("Alumno con condicion Suficiente");
                         contadorSuficiente++;
-                    } else if (nota == 6) {
+                    } else if (nota >= 6 && nota <= 6.9) {
                         System.out.println("Alumno con condicion Bien");
                         contadorBien++;
                     } else if (nota >= 7 && nota <= 8) {
