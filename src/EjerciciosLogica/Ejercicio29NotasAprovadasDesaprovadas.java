@@ -20,34 +20,34 @@ public class Ejercicio29NotasAprovadasDesaprovadas {
             // pedimos la cantidad de notas
             System.out.print("Ingrese la cantidad de notas: ");
             cantidadNotas = leer.nextInt();
-        } while (cantidadNotas < 0);
-        // validamos que la cantidad de notas sea positivo
-        if (cantidadNotas < 0) {
-            System.out.println("Ingrese un número positivo");
-        } else {
-            arregloNotas = new double[cantidadNotas];
-            // pedimos las notas y las guardamos en un arreglo
-            for (int i = 0; i < arregloNotas.length; i++) {
-                do {
-                    System.out.print((i + 1) + ". Ingrese la Nota: ");
-                    nota = leer.nextDouble();
-                    // validamos que la nota sea valida
-                    if (nota < 0 || nota > 20) {
-                        System.out.println("Ingrese una nota entre 0 y 20");
-                    } else {
-                        arregloNotas[i] = nota;
-                        // evaluamos si es nota es aprovatoria o no
-                        if (arregloNotas[i] >= 11) {
-                            // sumamos para despues sacar el promedio
-                            sumaNotasAprovadas += arregloNotas[i];
-                            contadorNotasAprovadas++;
-                        } else {
-                            sumaNotasDesaprovadas += arregloNotas[i];
-                            contadorNotasDesaprovadas++;
-                        }
-                    }
-                } while (nota < 0 || nota > 20);
+            if (cantidadNotas < 0) {
+                System.out.println("Ingrese un número positivo");
             }
+        } while (cantidadNotas < 0);
+
+        // validamos que la cantidad de notas sea positivo
+        arregloNotas = new double[cantidadNotas];
+        // pedimos las notas y las guardamos en un arreglo
+        for (int i = 0; i < arregloNotas.length; i++) {
+            do {
+                System.out.print((i + 1) + ". Ingrese la Nota: ");
+                nota = leer.nextDouble();
+                // validamos que la nota sea valida
+                if (nota < 0 || nota > 20) {
+                    System.out.println("Ingrese una nota entre 0 y 20");
+                } else {
+                    arregloNotas[i] = nota;
+                    // evaluamos si es nota es aprovatoria o no
+                    if (arregloNotas[i] >= 11) {
+                        // sumamos para despues sacar el promedio
+                        sumaNotasAprovadas += arregloNotas[i];
+                        contadorNotasAprovadas++;
+                    } else {
+                        sumaNotasDesaprovadas += arregloNotas[i];
+                        contadorNotasDesaprovadas++;
+                    }
+                }
+            } while (nota < 0 || nota > 20);
         }
         // calculamos el promedio
         promedioNotasAprovadas = sumaNotasAprovadas / contadorNotasAprovadas;
