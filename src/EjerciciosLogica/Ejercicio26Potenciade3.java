@@ -13,6 +13,8 @@ public class Ejercicio26Potenciade3 {
             potencia = Math.pow(3, i);
             System.out.println("3^"+i+" = " +potencia);
             suma += potencia;
+                        suma += potencia;
+
         }
         System.out.println("Suma: " + suma);
     }
