@@ -4,6 +4,7 @@ package EjerciciosLogica;
  ¿Dado N calcular:(1¹)+(2²)+(3³)+......+(N*N)?
 */
 import java.util.Scanner;
+import static EjerciciosLogica.codigo.*;
 
 public class Ejercicio33DadoN {
     static Scanner leer = new Scanner(System.in);
@@ -26,13 +27,6 @@ public class Ejercicio33DadoN {
         println("Resultado : " + suma);
     }
 
-    public static void println(String mensaje) {
-        System.out.println(mensaje);
-    }
-
-    public static void print(String mensaje) {
-        System.out.print(mensaje);
-    }
 }
 
 /*
