@@ -11,12 +11,13 @@ El programa debe verificar si ambas palabras son anagramas.
 El programa debe imprimir true si las palabras son anagramas y false
 en caso contrario.*/
 import java.util.Arrays;
+
 public class Ejercicio43PalabrasAnagramas {
     public static void main(String[] args) {
         String palabra1 = "listen";
         String palabra2 = "silent";
 
-        /*llamamos al método */
+        /* llamamos al método */
         boolean esAnagrama = sonAnagramas(palabra1, palabra2);
         System.out.println("¿SON ANAGRAMAS?");
         System.out.println(esAnagrama);
