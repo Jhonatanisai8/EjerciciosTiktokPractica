@@ -115,17 +115,17 @@ public class Ejercicio51ValorAtipico {
     }
 }
 
-/*
- * RETO DE PROGRAMACIÓN;
- * Se le proporciona un array (que tendrá una longitud de al menos 3,
- * pero podría ser muy grande) que contiene números enteros. El array
- * está compuesta en su totalidad por números enteros impares o en su
- * totalidad por números enteros pares, excepto un único número entero N.
- * Escriba un método que tome la matriz como argumento y devuelva
- * este "valor atípico" N.
- * 
- * Ejemplos
- * [2, 4, 0, 100, 4, 11, 2602, 36] --> 11 (unico valor impar)
- * 
- * [160, 3, 1719, 19, 11, 13, -21] --> 160 (unico valor par)
- */
+
+/*RETO DE PROGRAMACIÓN;
+ Se le proporciona un array (que tendrá una longitud de al menos 3,
+ pero podría ser muy grande) que contiene números enteros. El array
+ está compuesta en su totalidad por números enteros impares o en su
+ totalidad por números enteros pares, excepto un único número entero N.
+ Escriba un método que tome el array como argumento y devuelva
+ este "valor atípico" N.
+ 
+ Ejemplos
+ [2, 4, 0, 100, 4, 11, 2602, 36] --> 11 (unico valor impar)
+ 
+ [160, 3, 1719, 19, 11, 13, -21] --> 160 (unico valor par)*/
+ 
