@@ -1,9 +1,9 @@
 package EjerciciosLogica;
 // EJERCICIO DE LÓGICA DE PROGRAMACIÓN:
 
-// Has un programa que muestre al usuario
-// si una palabra ingresada es capicua.
-// (SE LEE IGUAL AL REVES).
+/*Has un programa que muestre al usuario
+si una palabra ingresada es capicua.
+(SE LEE IGUAL AL REVES).*/
 
 /*SOLUCIÓN EN JAVA */
 import java.util.Arrays;
