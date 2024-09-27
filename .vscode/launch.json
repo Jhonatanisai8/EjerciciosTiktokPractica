@@ -1,0 +1,420 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio57Fiesta",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio57Fiesta",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01Aumento",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio01Aumento",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio02Exportacion",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio02Exportacion",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio03DivicionesSucesivas",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio03DivicionesSucesivas",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04SumasSucesivas",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio04SumasSucesivas",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio05AreaCirculo",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio05AreaCirculo",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio06ParImpar",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio06ParImpar",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio07TablaMultiplicar",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio07TablaMultiplicar",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio08Multiplosde2y3",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio08Multiplosde2y3",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio09NumeroPositivoNegativo",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio09NumeroPositivoNegativo",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10SumaNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio10SumaNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11NumeroMayorMenor",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio11NumeroMayorMenor",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12FactorialNumero",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio12FactorialNumero",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13Calculadora",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio13Calculadora",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14FizzBuzz",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio14FizzBuzz",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15SerirFibonaci",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio15SerirFibonaci",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio16MayorNumeroArreglo",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio16MayorNumeroArreglo",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio17PedirContrasenia",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio17PedirContrasenia",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio18SumaUltimoPrimerDigito",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio18SumaUltimoPrimerDigito",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio19OperacionesPorNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio19OperacionesPorNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio20NotaAlumnos",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio20NotaAlumnos",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio21EfectivoOCheque",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio21EfectivoOCheque",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio22AñoBisiesto",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio22AñoBisiesto",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio23Mayor3Numeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio23Mayor3Numeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio24NumerosDecrecienteCreciente",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio24NumerosDecrecienteCreciente",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio25NumerosMayoresIgualesa25",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio25NumerosMayoresIgualesa25",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio26Potenciade3",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio26Potenciade3",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio27MultiplosDeUnNumero",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio27MultiplosDeUnNumero",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio28InvertirFrase",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio28InvertirFrase",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio29NotasAprovadasDesaprovadas",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio29NotasAprovadasDesaprovadas",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio30NumerosIgualesMenoresMayoresA10",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio30NumerosIgualesMenoresMayoresA10",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio31ApellidosOrdenInvertido",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio31ApellidosOrdenInvertido",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio32ValorCentral",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio32ValorCentral",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio33DadoN",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio33DadoN",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio34Encuesta",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio34Encuesta",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio35DescuentoCompra",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio35DescuentoCompra",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio36PersonasFFiestas",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio36PersonasFFiestas",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio36SumaNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio36SumaNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio38Abaco",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio38Abaco",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio39CaracterInfilrado",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio39CaracterInfilrado",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio40Matrices",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio40Matrices",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio41BuscarNumeroMatriz",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio41BuscarNumeroMatriz",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio42IntercambiarVariable",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio42IntercambiarVariable",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio43PalabrasAnagramas",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio43PalabrasAnagramas",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio44InveritrNumero",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio44InveritrNumero",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio45FactorDigito",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio45FactorDigito",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio46PrimeraLetraArreglo",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio46PrimeraLetraArreglo",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio48SumaMasGrande",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio48SumaMasGrande",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio49Caracteres",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio49Caracteres",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio50Isograma",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio50Isograma",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio51ValorAtipico",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio51ValorAtipico",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio52DivisorOtro",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio52DivisorOtro",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio53PalabraCapicua",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio53PalabraCapicua",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio54VocalOno",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio54VocalOno",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio55ListaNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio55ListaNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio56EliminarVocales",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio56EliminarVocales",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejericicio35TarifarioTrabajador",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejericicio35TarifarioTrabajador",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        }
+    ]
+}
