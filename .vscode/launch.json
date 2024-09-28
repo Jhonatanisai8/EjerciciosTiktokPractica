@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio59NumeroPerfecto",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio59NumeroPerfecto",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio58SumaResta",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio58SumaResta",
