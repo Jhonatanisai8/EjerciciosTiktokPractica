@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio58SumaResta",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio58SumaResta",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio57Fiesta",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio57Fiesta",
