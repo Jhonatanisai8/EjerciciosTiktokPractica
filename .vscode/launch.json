@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio60MostrarNumerosComa",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio60MostrarNumerosComa",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio59NumeroPerfecto",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio59NumeroPerfecto",
