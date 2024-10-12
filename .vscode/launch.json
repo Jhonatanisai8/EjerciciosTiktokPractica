@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio63Conexion",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio63Conexion",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio62Ultimas4Letras",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio62Ultimas4Letras",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio60MostrarNumerosComa",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio60MostrarNumerosComa",
