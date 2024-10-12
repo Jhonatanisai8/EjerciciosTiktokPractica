@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio64EncontrarNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio64EncontrarNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio63Conexion",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio63Conexion",
