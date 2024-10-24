@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio66SumarDiagonalMatriz",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio66SumarDiagonalMatriz",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio65NumeroCapicua",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio65NumeroCapicua",
