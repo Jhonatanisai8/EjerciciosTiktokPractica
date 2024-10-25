@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejerccio67ContarPalabra",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejerccio67ContarPalabra",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio66SumarDiagonalMatriz",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejercicio66SumarDiagonalMatriz",
