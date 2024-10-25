@@ -1,6 +1,10 @@
 package EjerciciosLogica;
 
-
+/*
+ EJERCICIO DE LOGICA DE PROGRAMACION:
+Has un función que devuelva cuantas veces 
+aparece en una cadena de caracteres una letra.
+ */
 public class Ejercicio67ContarPalabra {
     public static void main(String[] args) {
         String frase = "JAVA ES HERMOSO Y PRECIOSO";
