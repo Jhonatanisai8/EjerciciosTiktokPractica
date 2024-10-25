@@ -1,7 +1,7 @@
 package EjerciciosLogica;
 
 
-public class Ejerccio67ContarPalabra {
+public class Ejercicio67ContarPalabra {
     public static void main(String[] args) {
         String frase = "JAVA ES HERMOSO Y PRECIOSO";
         char letra = 'o';
