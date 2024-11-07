@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio68PedirNumeros",
+            "request": "launch",
+            "mainClass": "EjerciciosLogica.Ejercicio68PedirNumeros",
+            "projectName": "EjerciciosTiktokPractica_4da833f0"
+        },
+        {
+            "type": "java",
             "name": "Ejerccio67ContarPalabra",
             "request": "launch",
             "mainClass": "EjerciciosLogica.Ejerccio67ContarPalabra",
